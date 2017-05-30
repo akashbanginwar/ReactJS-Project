@@ -4,7 +4,7 @@
 3. *NPM run dev*
 4. Navigate to localhost:8080
 
-## Time stamps from [YouTube video](https://www.youtube.com/watch?v=MhkGQAoc7bc)
+## Time stamps from
 * 0:50 Babel overview
 * 1:29 Webpack config 
 * 2:37 NPM install
